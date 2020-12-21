@@ -51,7 +51,7 @@ Instalación de un DC.
 
 Solución maquina Resolute.
 ```
-https://youtu.be/elk5q3eP0Ac
+https://youtu.be/haHx0wZRZMg
 ```
 
 ## Quintaentrega
@@ -62,6 +62,5 @@ Ataques vistos
 
 Solución maquina Sauna.
 ```
-
-
+Pendiente
 ```
