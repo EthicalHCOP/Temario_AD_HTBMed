@@ -54,7 +54,7 @@ Solución maquina Resolute.
 https://youtu.be/haHx0wZRZMg
 ```
 
-## Quintaentrega
+## Quinta entrega
 
 Creación de un segundo DC.
 
