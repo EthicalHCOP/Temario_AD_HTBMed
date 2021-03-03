@@ -62,5 +62,5 @@ Ataques vistos
 
 Solución maquina Sauna.
 ```
-Pendiente
+https://youtu.be/QOuj3_GnMgw
 ```
